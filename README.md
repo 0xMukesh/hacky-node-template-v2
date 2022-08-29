@@ -25,6 +25,6 @@
 6. The database schema is stored within the [`prisma/schema.prisma`](./prisma/schema.prisma) file. If you want to have cross-file model relations, then you would need to use something like [Prismix](https://github.com/jamiepine/prismix).
 7. Deploy your Node.js application to [Railway](https://railway.app) within seconds
 
-   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/7HetPt?referralCode=hhzWkP)
-
+   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hAVE3a?referralCode=hhzWkP)
+  
 Made by [@0xMukesh](https://twitter.com/0xMukesh)
